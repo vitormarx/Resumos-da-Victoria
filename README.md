@@ -2,7 +2,7 @@
 A website to download summaries made by Victória Oliveira about the modules studied at UNINTA's medicine course.
 
 ## Technologies
-- HTML
-- Css
+- HTML5
+- Css3
 - Javascript
 
